@@ -3,6 +3,8 @@ Created by Evan Hellersund in Python 3.10
 ### How to use
 Simply clone the repository and run `outliner.py` to generate the images with bounding boxes into the `Outputs` folder (which is where they are on GitHub, too). There is no need to move files into different folders.
 Theoretically, different XML files and images may be added, so long as both files fall into the same place alphabetically when considering the other XML/image pairings and they are added to the correct folders.
+
+Please make sure you have the below libraries and modules installed, as well.
 ### Libraries/modules used
 - xml.etree.ElementTree
 - Pillow
